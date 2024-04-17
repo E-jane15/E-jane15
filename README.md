@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Ebai Enownku Jane. I am an aspiring front end developer. I enjoy learning web technologies such as HTML, CSS and JavaScript. I am currently being trained by the Zuri Team.
+Let's connect on LinkedIn at https://www.linkedin.com/in/jane-ebai-205a40272/.
 
 <!--
 **E-jane15/E-jane15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
